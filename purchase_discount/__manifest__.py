@@ -4,11 +4,7 @@
 # License AGPL-3 - See http://www.gnu.org/licenses/agpl-3.0.html
 {
     "name": "Purchase order lines with discounts",
-    "author": "Tiny, "
-              "Acysos S.L., "
-              "Tecnativa, "
-              "ACSONE SA/NV,"
-              "GRAP,"
+    "author": "Test "
               "Odoo Community Association (OCA)",
     "version": "12.0.1.0.1",
     "category": "Purchase Management",
